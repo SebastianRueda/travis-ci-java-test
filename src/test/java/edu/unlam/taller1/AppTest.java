@@ -25,6 +25,6 @@ public class AppTest
 
     @Test
     public void testTravisFail() {
-        assertTrue(true);
+        assertTrue(false);
     }
 }

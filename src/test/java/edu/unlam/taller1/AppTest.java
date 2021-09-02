@@ -22,4 +22,9 @@ public class AppTest
     public void testTravis() {
         assertTrue(true);
     }
+
+    @Test
+    public void testTravisFail() {
+        assertTrue(true);
+    }
 }
